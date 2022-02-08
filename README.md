@@ -3,4 +3,4 @@
 ### the website is look like:
 
 
-![Screenshot](https://user-images.githubusercontent.com/78909300/screenshot.jpeg)
+![Screenshot](https://github.com/554161299994/-LGMVIP-Web/blob/main/Screenshot.png)
